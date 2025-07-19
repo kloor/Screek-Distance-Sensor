@@ -289,9 +289,6 @@ button:
   - platform: restart
     icon: mdi:power-cycle
     name: "ESP Reboot"
-  - platform: restart
-    icon: mdi:power-cycle
-    name: "ESP Reboot"
   - platform: template
     name: "Reset People Counter"
     on_press:
